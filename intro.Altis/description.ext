@@ -1,5 +1,0 @@
-#include "PDT_Intro_Cam\dialogs.hpp"
-class CfgFunctions
-{
-	#include "PDT_Intro_Cam\functions.hpp"
-};
